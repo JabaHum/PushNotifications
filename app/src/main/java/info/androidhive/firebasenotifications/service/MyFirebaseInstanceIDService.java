@@ -1,19 +1,23 @@
+/*
 package info.androidhive.firebasenotifications.service;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.support.v4.content.LocalBroadcastManager;
 import android.util.Log;
+
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
 
 import info.androidhive.firebasenotifications.app.Config;
 
+*/
 /**
  * Created by Ravi Tamada on 08/08/16.
  * www.androidhive.info
- */
+ *//*
+
 public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
     private static final String TAG = MyFirebaseInstanceIDService.class.getSimpleName();
 
@@ -47,3 +51,4 @@ public class MyFirebaseInstanceIDService extends FirebaseInstanceIdService {
     }
 }
 
+*/
